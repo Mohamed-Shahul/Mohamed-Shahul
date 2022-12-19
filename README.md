@@ -6,6 +6,7 @@
 
 - Good Knowledge in Bootstrap, Tailwind CSS ,ReactJS, Angular  
 
+- Having Good Knowledge Web design
 <br/>  
 
 

@@ -4,7 +4,7 @@
 - Good Knowledge in HTML5, CSS3, and JavaScript.  
   
 
-- Good Knowledge in Bootstrap, Tailwind CSS ,ReactJS, Angular  
+- Good Knowledge in Bootstrap, Tailwind CSS ,ReactJS  
 
 - Having Good Knowledge Web design
 <br/>  

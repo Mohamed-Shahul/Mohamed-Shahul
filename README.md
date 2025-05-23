@@ -1,12 +1,6 @@
-### <div align="center">Fresher || Front - End Developer 🚀</div>  
-  
-
-- Good Knowledge in HTML5, CSS3, and JavaScript.  
-  
-
-- Good Knowledge in Bootstrap, Tailwind CSS ,ReactJS  
-
-- Having Good Knowledge Web design
+### <div align="center"> Front - End Developer 🚀</div>  
+  - Having a strong skill in React js and logical thinking
+  - Code optimizig, reusability, etc...
 <br/>  
 
 
